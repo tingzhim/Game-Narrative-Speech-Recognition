@@ -1,3 +1,3 @@
 # Game-Narrative-Speech-Recognition
 
-![image](image/framework.png)
+![image](images/framework.png)
