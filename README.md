@@ -5,7 +5,7 @@
   ## Introduction
   This is the respository of Multimodal Game Narration Speech Recognition. In this repository, we provide pre-training code, network settings for end-to-end visual speech recognition that refers to game videos rather than facial/lip. We trained our model on GND. 
   <div align=center>
-  <img src="images/sample.png" width="480" height="300">
+  <img src="images/sample.png" width="480" height="360">
   </div>
   
   ## Framework
