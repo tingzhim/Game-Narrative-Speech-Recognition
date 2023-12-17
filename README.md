@@ -9,13 +9,13 @@
   phrase 1 is pre-trained video module by masked token prediction loss. 
   phrase 2 fine-tune the pre-trained unimodal speech recognition model by combing video module in phrase 1.
   <div align=center>
-  <img src="images/framework.png" width="360" height="180">
+  <img src="images/framework.png" width="720" height="360">
   </div>
   # Samples
 
 
 <div align=center>
-<img src="images/sample.png" width="360" height="180">
+<img src="images/sample.png" width="720" height="360">
 </div>
 
 
