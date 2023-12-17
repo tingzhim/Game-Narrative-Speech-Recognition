@@ -5,7 +5,7 @@
   ## Introduction
   This is the respository of Multimodal Game Narration Speech Recognition. In this repository, we provide pre-training code, network settings for end-to-end visual speech recognition. We trained our model on GND. 
   <div align=center>
-  <img src="images/sample.png" width="480" height="560">
+  <img src="images/sample.png" width="480" height="360">
   </div>
   ## Framework
   The architecture of multimodal game narration recognition (MGNR) for speech recognition. We set have two phrase, 
