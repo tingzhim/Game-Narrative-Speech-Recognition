@@ -2,6 +2,6 @@
 
 # framework
 <div align=center>
-<img src="images/framework.png" width="180" height="105">
+<img src="images/framework.png" width="360" height="180">
 </div>
 
