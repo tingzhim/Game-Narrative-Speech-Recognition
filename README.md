@@ -1,11 +1,11 @@
 # MGNR: Multimodal Game Narration Recognition by Integrating Game Videos and Narration Speech
 
 # Content
-  [Introduction](##Introduction)
+  [Introduction](#Introduction)
   
-  [Framework](##Framework)
+  [Framework](#Framework)
   
-  [Examples](##Examples)
+  [Examples](#Examples)
 
 
   ## Introduction
