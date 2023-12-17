@@ -2,7 +2,7 @@
 
 
 <div align=center>
-<img src="images/framework.png" width="360" height="180">
+<img src="images/sample.png" width="360" height="180">
 </div>
 
 <div align=center>
