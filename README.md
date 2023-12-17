@@ -3,9 +3,11 @@
 # Content
 
   ## Introduction
-    This is the respository of Towards Practical Lipreading with Distilled and Efficient Models and Lipreading using Temporal Convolutional Networks. In this repository, we provide training code, pre-trained models, network settings for end-to-end visual speech recognition (lipreading). We trained our model on LRW. 
+  This is the respository of Multimodal Game Narration Speech Recognition. In this repository, we provide pre-training code, network settings for end-to-end visual speech recognition. We trained our model on GND. 
   ## Framework
-  The network architecture is based on 3D convolution, ResNet-18 plus MS-TCN.
+  The architecture of multimodal game narration recognition (MGNR) for speech recognition. We set have two phrase, 
+  phrase 1 is pre-trained video module by masked token prediction loss. 
+  phrase 2 fine-tune the pre-trained unimodal speech recognition model by combing video module in phrase 1.
   <div align=center>
   <img src="images/framework.png" width="360" height="180">
   </div>
